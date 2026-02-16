@@ -1,6 +1,7 @@
 # Smart Bookmark App
 
 Smart Bookmark App is a modern, real-time bookmark manager built with **Next.js 16** (App Router), **Tailwind CSS v4**, and **Supabase**. It allows users to securely save and organize their favorite links, sync them across devices instantly, and access them via a beautiful glassmorphism interface.
+🌐 **Live Demo:** [https://smartbooker.com ](https://smart-marks.vercel.app/)
 
 ## 🚀 Key Features
 
